@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff4e4e;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <circle id="_타원_277" data-name="타원 277" class="cls-2" cx="41" cy="41" r="41"/>
+      <g id="heart">
+        <path id="_패스_877" data-name="패스 877" class="cls-1" d="m23,36.46v-.41c.01-4.9,3.56-9.07,8.39-9.86,3.2-.52,6.46.52,8.77,2.8l.84.84.78-.84c2.33-2.28,5.61-3.32,8.83-2.8,4.83.79,8.38,4.96,8.39,9.86v.41c0,2.91-1.21,5.68-3.35,7.65l-12.7,11.8c-1.1,1.01-2.8,1.01-3.9,0l-12.7-11.8c-2.13-1.97-3.35-4.75-3.35-7.65Z"/>
+        <path id="_패스_878" data-name="패스 878" class="cls-3" d="m23,23h36v36H23V23Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff4e4e;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g id="heart-2">
+      <path id="_패스_877" data-name="패스 877" class="cls-1" d="m0,8.95v-.27C0,4.98,3,1.98,6.7,1.98c1.78,0,3.48.71,4.74,1.96l.56.56.52-.56c1.55-1.52,3.73-2.22,5.88-1.87,3.23.54,5.6,3.33,5.6,6.6v.27c0,1.94-.81,3.8-2.23,5.13l-8.47,7.9c-.73.68-1.87.68-2.6,0L2.23,14.07C.81,12.75,0,10.9,0,8.95Z"/>
+      <path id="_패스_878" data-name="패스 878" class="cls-2" d="m0,0h24v24H0V0Z"/>
+    </g>
+  </g>
+</svg>

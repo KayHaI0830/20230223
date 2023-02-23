@@ -1,0 +1,120 @@
+.login_bg {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+.log_top_block {
+    font-family: 'GmarketSansBold';
+    width: 100%;
+    height: 288px;
+    background-color: #131F46;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+}
+.log_under_block {
+    width: 100%;
+    height: 100px;
+    background-color: #131F46;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 85%;
+    margin: 30px auto;
+}
+.member_login {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.input_form {
+    margin-right: 35px;
+}
+.input_form div {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+.id {
+    margin-bottom: 22px;
+}
+.input_form span {
+    font-family: 'Pretendard-Bold';
+    width: 30px;
+}
+.input_form input {
+    width: 85%;
+    height: 30px;
+    border: none;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-left: 5px;
+    outline: none;
+}
+.input_form input::placeholder {
+    font-size: 12px;
+}
+.login_btn {
+    font-family: 'Pretendard-Bold';
+    text-align: center;
+    background-color: #FFD800;
+    padding: 30px 0;
+    cursor: pointer;
+}
+.signup {
+    grid-column: 1/3;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 25px;
+}
+.signup span {
+    font-family: 'Pretendard-Medium';
+}
+.signup a {
+    font-family: 'Pretendard-Medium';
+    text-decoration: underline;
+    margin-left: 10px;
+}
+
+.sns_text {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 3% 0;
+}
+.sns_text hr {
+    width: 40%;
+    height: 3px;
+    background-color: #131F46;
+    border: 0;
+    margin: auto 0;
+}
+.sns_text .text {
+    font-family: 'Pretendard-Medium';
+    font-size: 14px;
+    color: #131F46;
+    width: 90px;
+}
+.sns_img {
+    display: flex;
+    flex-direction: row;
+    width: 150px;
+    margin: 0 auto;
+}
+.sns_img a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    margin: 7px auto;
+}
+.sns_img img {
+    width: 100%;
+}

@@ -1,0 +1,59 @@
+#Signup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100vw;
+    height: 100vh;
+}
+.sign_top_block {
+    font-family: 'GmarketSansBold';
+    position: relative;
+    width: 100%;
+    height: 288px;
+    background-color: #FFD800;
+    color: #131F46;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+}
+.sign_top_block > img {
+    position: absolute;
+    left: 30px;
+    bottom: 45px;
+    width: 20px;
+    transform: rotate(180deg);
+}
+.sign_under_block {
+    width: 100%;
+    height: 100px;
+    background-color: #FFD800;
+}
+
+#first_div, #last_div {
+    margin: 80px auto;
+    width: 80%;
+    text-align: center;
+}
+.signup_input input {
+    width: 100%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+}
+.signup_input input::placeholder {
+    font-family: 'Pretendard-Medium';
+    font-size: 12px;
+}
+.button {
+    font-family: 'Pretendard-Bold';
+    font-size: 16px;
+    width: 100%;
+    padding: 20px 0;
+    background-color: #131F46;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}

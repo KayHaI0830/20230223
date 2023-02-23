@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 305 123">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 10px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: #ffd800;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="261.83" width="43.17" height="43.28"/>
+    </clipPath>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g id="_그룹_1707" data-name="그룹 1707">
+      <rect id="_사각형_1633" data-name="사각형 1633" class="cls-1" y="0" width="10.63" height="77.08"/>
+      <rect id="_사각형_1634" data-name="사각형 1634" class="cls-1" x="34.8" y="0" width="10.63" height="77.08"/>
+      <rect id="_사각형_1635" data-name="사각형 1635" class="cls-1" x="53.94" y="0" width="10.63" height="87.56"/>
+      <rect id="_사각형_1636" data-name="사각형 1636" class="cls-1" x="217.65" y=".65" width="10.63" height="118.68"/>
+      <rect id="_사각형_1637" data-name="사각형 1637" class="cls-1" x="238.69" y=".65" width="10.63" height="118.68"/>
+      <rect id="_사각형_1638" data-name="사각형 1638" class="cls-1" x="294" y="50.57" width="10.63" height="68.76"/>
+      <rect id="_사각형_1639" data-name="사각형 1639" class="cls-1" x="103.66" y="32.75" width="10.63" height="47.02"/>
+      <rect id="_사각형_1640" data-name="사각형 1640" class="cls-1" x="174.81" y="30.14" width="10.82" height="50.52"/>
+      <rect id="_사각형_1641" data-name="사각형 1641" class="cls-1" x="198.56" y="30.14" width="10.82" height="50.52"/>
+      <rect id="_사각형_1642" data-name="사각형 1642" class="cls-1" x="122.3" y="73.19" width="10.63" height="45.08"/>
+      <rect id="_사각형_1643" data-name="사각형 1643" class="cls-1" x="103.66" y="70.02" width="47.98" height="10.63"/>
+      <rect id="_사각형_1644" data-name="사각형 1644" class="cls-1" x="159.74" y="30.14" width="49.54" height="10.63"/>
+      <rect id="_사각형_1645" data-name="사각형 1645" class="cls-1" x="218.2" y="30.14" width="27.52" height="10.63"/>
+      <rect id="_사각형_1646" data-name="사각형 1646" class="cls-1" x="103.55" y="108.7" width="124.73" height="10.63"/>
+      <rect id="_사각형_1647" data-name="사각형 1647" class="cls-1" x="0" y="67.87" width="45.43" height="10.63"/>
+      <rect id="_사각형_1648" data-name="사각형 1648" class="cls-1" x="0" y="31.31" width="45.43" height="10.63"/>
+      <rect id="_사각형_1649" data-name="사각형 1649" class="cls-1" x="273.33" y="50.57" width="10.63" height="68.76"/>
+      <rect id="_사각형_1650" data-name="사각형 1650" class="cls-1" x="238.69" y="108.7" width="45.28" height="10.63"/>
+      <rect id="_사각형_1651" data-name="사각형 1651" class="cls-1" x="239.61" y="70.02" width="43.43" height="10.63"/>
+      <rect id="_사각형_1652" data-name="사각형 1652" class="cls-1" x="58.29" y="30.14" width="93.45" height="10.63"/>
+      <g id="_타원_279" data-name="타원 279">
+        <circle class="cls-3" cx="58.5" cy="101.5" r="21.5"/>
+        <circle class="cls-2" cx="58.5" cy="101.5" r="16.5"/>
+      </g>
+      <g id="_그룹_1706" data-name="그룹 1706">
+        <g class="cls-4">
+          <g id="_그룹_1673" data-name="그룹 1673">
+            <path id="_패스_879" data-name="패스 879" class="cls-5" d="m299.49,30.84c-9.54,4.29-20.76.03-25.05-9.52-3.26-7.25-1.64-15.77,4.05-21.32-11.77,2.93-18.94,14.85-16,26.62,2.93,11.77,14.85,18.94,26.62,16,7.72-1.92,13.8-7.87,15.88-15.55-1.6,1.57-3.46,2.84-5.51,3.76"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

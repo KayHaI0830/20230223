@@ -1,0 +1,95 @@
+#map {
+    width: 100%;
+    height: calc(100vh - 100px);
+    margin: 0 auto;
+    z-index: 0;
+}
+
+.map_move {
+    width: 60px;
+    height: 60px;
+    position:absolute;
+    bottom:128px;
+    right:28px;
+    padding:5px;
+    z-index:10;
+}
+
+.popup_wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 288px;
+    height: 130px;
+    background-color: #fff;
+}
+
+.popup_wrap > div {
+    display: flex;
+    justify-content: space-between;
+    width: 248px;
+}
+
+.popup_wrap > .popup_top {
+    margin-top: 16px;
+}
+
+.popup_top > .escape_name {
+    font-family: 'Pretendard-Bold';
+    font-size: 18px;
+}
+
+.popup_top > .popup_close {
+    width: 18px;
+    height: 18px;
+}
+
+.popup_center > .escape_address {
+    font-family: 'Pretendard-Regular';
+    text-align: left;
+    font-size: 13px;
+    width: 160px;
+    height: 30px;
+}
+
+.popup_wrap > .popup_top {
+    align-items: flex-start;
+}
+
+.popup_center > .escape_distance {
+    font-family: 'Pretendard-Bold';
+    text-align: right;
+    font-size: 16px;
+    color: #FF4E4E;
+    width: 50px;
+    align-self: flex-end;
+}
+
+.popup_center > .popup_mark {
+    width: 24px;
+    height: 24px;
+    align-self: flex-end;
+}
+
+.popup_wrap > .popup_bottom {
+    font-family: 'Pretendard-Bold';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 288px;
+    height: 37px;
+    background-color: #1B2C64;
+}
+
+.popup_bottom a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.popup_bottom img {
+    padding-top: 4px;
+    width: 16px;
+    height: 16px;
+}
